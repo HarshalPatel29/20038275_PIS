@@ -77,10 +77,11 @@ function sumMultiples(a, b, l) {
     }, 0);
 }
 
-const a = 3;
+const a = 2;
 const b = 5;
 const l = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
-alert(sumMultiples(a, b, l));
+console.log(sumMultiples(a, b, l));
+
 
 // 2.Create a function which takes parameters a,l
 // a is a list of two integers
