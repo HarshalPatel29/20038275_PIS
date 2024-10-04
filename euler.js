@@ -35,7 +35,7 @@ and alert them to the output
 
   alert("This is function... " + sumOfNum(3, 5, 1000));
 
-  // Allow the user to enter the parameters via text boxes and alert them to the output
+  //Allow the user to enter the parameters via text boxes and alert them to the output
 
   doIt = () => {
       let A = document.getElementById('val1').value;
@@ -50,4 +50,21 @@ and alert them to the output
       alert("Results " + sum);
   }
 
-  
+  /* Demonstrate some DOM manipulation in the Exercise.
+  For example changing the value of a result div, hiding inputs once the button is clicked...
+
+  */
+
+//   Array
+//  1. Create a function which takes parameters a,b,l
+// l is a list of integers, Find the sum of all the multiples of a or b in l.
+
+// 2.Create a function which takes parameters a,l
+// a is a list of two integers
+// l is a list of integers
+// Find the sum of all the multiples of a or b in l.
+
+// 3.Create a function which takes parameters a,l
+// a is a list of integers
+// l is a list of integers
+// Find the sum of all the multiples of a or b in l.
