@@ -80,7 +80,7 @@ function sumMultiples(a, b, l) {
 const a = 3;
 const b = 5;
 const l = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
-console.alert(sumMultiples(a, b, l));
+alert(sumMultiples(a, b, l));
 
 // 2.Create a function which takes parameters a,l
 // a is a list of two integers
