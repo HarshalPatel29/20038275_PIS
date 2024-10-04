@@ -56,8 +56,6 @@ and alert them to the output
   */
 
 //   Array
-//  1. Create a function which takes parameters a,b,l
-// l is a list of integers, Find the sum of all the multiples of a or b in l.
 
 // 2.Create a function which takes parameters a,l
 // a is a list of two integers
@@ -69,6 +67,9 @@ and alert them to the output
 // l is a list of integers
 // Find the sum of all the multiples of a or b in l.
 
+
+//  1. Create a function which takes parameters a,b,l
+// l is a list of integers, Find the sum of all the multiples of a or b in l.
 
 function sumMultiples(a, b, l) {
     return l.reduce((sum, current) => {
